@@ -593,3 +593,22 @@ img.rounded {
   height: 200px;
   display: block;
 }
+
+.visit-intro {
+  text-align: left;
+}
+
+.visit-intro .lead {
+  margin-bottom: 1rem;
+}
+
+.map {
+  border-radius: 18px;
+  overflow: hidden;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.08);
+}
+
+.map iframe {
+  display: block;
+  width: 100%;
+}
